@@ -19,7 +19,7 @@ python 102303457.py <SingerName> <NumberOfVideos> <AudioDuration> <OutputFileNam
 
 ### Example
 ```bash
-python 102303505.py "Sharry Maan" 20 30 102303505-output.mp3
+python 102303457.py "Sharry Maan" 20 30 102303505-output.mp3
 ```
 
 ### Sample Output
